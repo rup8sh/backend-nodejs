@@ -1,0 +1,22 @@
+{
+  "name": "backend-nodejs",
+  "version": "1.0.0",
+  "description": "Backend implementation of various features through  Node Js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rup8sh/backend-nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Kumar R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rup8sh/backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/rup8sh/backend-nodejs#readme"
+}
