@@ -4,6 +4,9 @@ const path = require("path");
 
 const app = express();
 
+app.set("view engine", "pug");
+app.set("views", "views");
+
 const adminroutes = require("./routes/admin");
 const shoproutes = require("./routes/shop");
 
