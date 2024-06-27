@@ -1,5 +1,11 @@
-# backend-nodejs
+# Node js Based Backend Project
 
-This repository will be developed into a full stack application with implementation of several features like , file upload, sending emails , processing file assets and many more from scratch using Node.js.
+This repository is developed as a project based on Node.js based e commerce shop with features like:
 
-The commits will start soon :)
+1) Middleware
+2) Authorization based Routing
+3) Invoices
+4) Payment gateway Integration (Stripe)
+5) MVC Based Architecture
+6) Microservices is the next planned update, stay tuned... :)
+
